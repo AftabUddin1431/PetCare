@@ -1,0 +1,647 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*heder*/
+.logo {
+    width: 155px;
+}
+  .menu ul li a{
+  	font-size: 20px;
+	padding: 0 0px !important;
+	text-align: right;
+    }
+    .h_button {
+    justify-content: center;
+    margin-left: 31px;
+    }
+    .b_search {
+    width: 180px;
+    height: 45px;
+    font-size: 18px;
+   }
+   .b_button {
+    width: 60px;
+    height: 45px;
+    font-size: 18px;
+
+    }
+    /*slider*/
+    .slider{
+	padding-top: 0px;
+	padding-bottom: 70px;
+    }
+    .s_text {
+    margin-top: 30px;
+    text-align: center;
+   }
+   .s_text h1{
+	font-size:30px!important;
+    }
+    .s_text p {
+    margin: 15px 0;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    }
+    .bt_1, .bt_2 {
+    width: 111px;
+    height: 40px;
+    font-size: 16px;
+   }
+   .bt_2 {
+    margin-left: 22px;
+  }
+  .cid li {
+    width: 13px;
+    height: 13px;
+    }
+    .service{
+	padding-top: 0px;
+	padding-bottom: 30px;
+    }
+    .service_t{
+    	margin-top: 25px;
+		text-align: center;
+    }
+    .service_t h1{
+    font-size: 26px;
+   }
+   .service_t p{
+    margin: 15px 0;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    }
+    /*feature*/
+    .features{
+	padding-top:35px;
+	padding-bottom: 35px!important;
+}
+   .f_h1 {
+    font-size: 31px;
+    }
+    .f_p {
+    margin: 12px 0;
+    font-size: 17px;
+    line-height: 23px;
+    letter-spacing: 0px;
+
+    }
+    .imgage{
+	margin: 25px 0;
+	width: 62%;
+}
+   .si_imgtext h2 {
+    margin-top: -10px;
+    font-size: 21px;
+   }
+   .si_imgtext p {
+    margin-top: 0px;
+    font-size: 16px;
+    line-height: 20px;
+   }
+   /*2nd feature*/
+   .feat_h2 {
+   	margin-top: -12px;
+    font-size: 25px!important;
+    word-spacing: 8px;
+    margin-bottom: 7px;
+    }
+    .fea_b2 {
+    width: 115px;
+    height: 35px;
+    margin-bottom: 20px;
+    }
+    /*features 3rd*/
+   .fea_h3 {
+    margin-bottom: 2px;
+    font-size: 21px!important;
+}
+    .fea_p3 {
+    margin-bottom: 15px!important;
+    font-size: 17px!important;
+   }
+   .fec_icon3 i{
+	font-size: 25px;
+   }
+    /*happy start*/
+      .happy{
+	padding-top: 45px;
+	padding-bottom: 0;
+   }
+
+     .h_img{
+	margin-bottom: 15px;
+    }
+
+   .h_icon h1{
+	font-size: 22px;
+    margin-bottom: 0px;
+
+}
+.h_icon h2{
+	margin-bottom: 45px;
+	font-size: 18px;
+  }
+  /*4th features*/
+  .fea_4th{
+	text-align: center;
+	padding-bottom: 15px;
+	box-shadow: none;
+	padding-bottom: 0px;
+    }
+   .fea_4th h1{
+	padding-left: 0px;
+	font-size: 20px;
+   }
+.fea_4th p{
+	margin-bottom: 10px;
+	padding-left: 0px;
+	font-size: 16px;
+}
+.date_p{
+	margin: 10px 0;
+	padding-left: 0px;
+	font-size: 16px;
+     }
+    ul{
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+.readicon a{
+	padding-left: 0px;
+	font-size: 18px;
+    }
+    /*footer*/
+     footer{
+	padding-top: 35px;
+	padding-bottom: 35px;
+    }
+     .big_btn1{
+     	margin-bottom: 15px;
+	    font-size: 22px;
+   }
+   .f_part1{
+	text-align: center;
+    }
+    .f_part2{
+    text-align: center;
+	font-size: 15px;
+   }
+   .newsletter{
+	text-align: center;
+   }
+   .newsletter h1 {
+    margin-top: 30px;
+   }
+   .newsletter p {
+    margin-top: -3px;
+    }
+   .newsletter form {
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    }
+   .fu_bu1{
+	width: 210px;
+    height: 60px;
+   }
+   .fu_bu2 {
+   	font-size: 28px;
+    width: 78px;
+    height: 60px;
+   }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*heder*/
+.menu ul li a{
+	font-size: 21px;
+	padding: 0 0px !important;
+	text-align: right;
+    }
+    .h_button {
+    justify-content: center;
+    margin-left: 251px;
+    }
+    .b_search {
+    width: 180px;
+    height: 45px;
+    font-size: 18px;
+   }
+   .b_button {
+    width: 60px;
+    height: 45px;
+    font-size: 18px;
+
+    }
+    /*slider*/
+    .slider{
+	padding-top: 0px !important;
+	padding-bottom: 70px !important;
+    }
+    .s_text {
+    margin-top: 30px;
+    text-align: center;
+   }
+   .s_text h1{
+	font-size:40px !important;
+    }
+    .s_text p {
+    margin: 15px 0;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    }
+    .bt_1, .bt_2 {
+    width: 130px;
+    height: 50px;
+    font-size: 18px;
+   }
+   .bt_2 {
+    margin-left: 22px;
+  }
+  .cid li {
+    width: 13px;
+    height: 13px;
+    }
+    /*service start*/
+    .service{
+	padding-top: 0px;
+	padding-bottom: 35px!important;
+    }
+    .service_t{
+    	margin-top: 35px;
+		text-align: center;
+    }
+    .service_t h1{
+    font-size: 40px;
+   }
+   .service_t p{
+    margin: 15px 0;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    }
+    /*feature*/
+    .features{
+	padding-top:35px;
+	padding-bottom: 35px!important;
+    }
+.f_h1 {
+    font-size: 45px;
+    }
+    .f_p {
+    margin: 10px 0;
+    font-size: 23px;
+    line-height: 30px;
+    }
+   .si_imgtext h2 {
+    font-size: 17px;
+   }
+   .si_imgtext p {
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 20px;
+   }
+
+    /*2nd feature*/
+   .feat_h2 {
+   	margin-top: -12px;
+    font-size: 24px!important;
+    word-spacing: 8px;
+    margin-bottom: 7px;
+    }
+    .fea_b2 {
+    width: 115px;
+    height: 35px;
+    }
+    /*features 3rd*/
+   .fea_h3 {
+   	margin-bottom: -10px;
+    font-size: 19px!important;
+    }
+    .fea_p3 {
+    margin-bottom: 20px!important;
+    font-size: 17px!important;
+   }
+   .fec_icon3 i{
+	font-size: 25px;
+   }
+     /*happy start*/
+      .happy{
+	padding: 45px 0;
+   }
+
+     .h_img{
+	margin-bottom: 35px;
+    }
+
+   .h_icon h1{
+	font-size: 25px;
+}
+.h_icon h2{
+	font-size: 20px;
+  }
+  /*4th features*/
+   .fea_4th h1{
+	padding-left: 10px;
+	    font-size: 19px;
+   }
+.fea_4th p{
+	padding-left: 10px;
+	    font-size: 15px;
+     }
+.date_p{
+	padding-left: 10px;
+	    font-size: 15px;
+     }
+.readicon a{
+	padding-left: 10px;
+	    font-size: 16px;
+    }
+    /*footer*/
+     footer{
+	padding-top: 35px;
+	padding-bottom: 35px;
+    }
+    .f_part1{
+	text-align: center;
+    }
+     .big_btn1{
+	font-size: 26px;
+   }
+    .f_part2{
+    text-align: center;
+	font-size: 17px;
+   }
+   .newsletter{
+	text-align: center;
+   }
+   .newsletter h1 {
+    margin-top: 40px;
+   }
+   .newsletter p {
+    margin-top: -18px;
+    }
+   .newsletter form {
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    }
+   .fu_bu1{
+	width: 250px;
+    height: 60px;
+   }
+   .fu_bu2 {
+   	font-size: 30px;
+    width: 78px;
+    height: 60px;
+   }
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /*heder*/
+   .menu ul li a{
+	padding: 0 0px !important;
+	font-size: 23px;
+	text-align: right;
+    }
+    .h_button {
+    justify-content: center;
+    margin-left: 401px;
+    }
+    /*slider*/
+    .slider {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+    .s_text {
+    margin-top: 65px;
+     }
+    .s_text h1 {
+    font-size: 39px!important;
+    }
+    .s_text p {
+    margin: 30px 0;
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 28px;
+    }
+    .cid {
+    bottom: -65px;
+    }
+    /*service start*/
+    .service{
+	padding-top: 90px;
+	padding-bottom: 70px;
+    }
+    .service_t{
+		margin-top: 35px;
+    }
+    .service_t h1{
+    font-size: 30px;
+    }
+    .service_t p{
+    margin: 17px 0;
+    font-size: 21px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    }
+    .bt_1, .bt_2 {
+    width: 130px;
+    height: 50px;
+    font-size: 18px;
+   }
+   /*feature */
+   .features{
+	padding-top: 90px!important;
+	padding-bottom: 70px!important;
+   }
+.f_h1 {
+    font-size: 60px;
+    }
+    .f_p {
+    margin: 15px 0;
+    font-size: 25px;
+    line-height: 35px;
+   }
+   .si_imgtext h2 {
+    font-size: 23px;
+   }
+   .si_imgtext p {
+    font-size: 18px;
+    line-height: 25px;
+   }
+   /*2nd feature*/
+   .feat_h2 {
+    font-size: 30px!important;
+    word-spacing: 15px;
+    margin-bottom: 10px;
+    }
+    .fea_b2{
+	width: 125px;
+    height: 45px;
+   }
+   /*features 3rd*/
+   .fea_h3 {
+    font-size: 26px!important;
+    }
+    .fea_p3 {
+    margin-bottom: 23px!important;
+    font-size: 22px!important;
+   }
+   .fec_icon3 i{
+	font-size: 35px;
+   }
+   /*happy start*/
+    .happy{
+	padding: 80px 0;
+   }
+   .h_icon h1{
+	font-size: 30px;
+}
+.h_icon h2{
+	font-size: 27px;
+  }
+  /*4th features*/
+   .fea_4th h1{
+	padding-left: 15px;
+	    font-size: 19px;
+   }
+.fea_4th p{
+	padding-left: 15px;
+	    font-size: 16px;
+     }
+.date_p{
+	padding-left: 15px;
+	    font-size: 16px;
+     }
+.readicon a{
+	padding-left: 15px;
+	    font-size: 18px;
+    }
+    /*footer*/
+    footer{
+	padding-top: 90px;
+	padding-bottom: 70px;
+   }
+    .big_btn1{
+	font-size: 26px;
+   }
+.f_part2{
+	font-size: 17px;
+   }
+   .newsletter p {
+    margin-top: -18px;
+}
+   .newsletter form {
+    margin-left: 5px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+   .fu_bu1{
+	width: 253px;
+    height: 60px;
+   }
+   .fu_bu2 {
+    width: 75px;
+    height: 60px;
+   }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*header*/
+  .menu ul li a {
+    margin-bottom: 8px;
+    font-size: 22px;
+}
+.b_search {
+    font-size: 18px;
+}
+
+  /*slider*/
+  .s_text h1 {
+    font-size: 55px!important;
+   }
+   .s_text p {
+    font-size: 22px;
+    }
+    /*service start*/
+    .service_t h1{
+    font-size: 40px;
+    }
+    .service_t p{
+    font-size: 22px;
+    }
+    .si_imgtext h2{
+	font-size: 30px;
+    }
+.si_imgtext p{
+	font-size: 20px;
+   }
+   /*footer*/
+   .big_btn1 {
+    font-size: 30px;
+    }
+   .f_part2 {
+    font-size: 21px;
+    }
+    .newsletter form {
+    margin-left: 50px;
+    }
+.fu_bu2{
+	width: 110px;
+    height: 70px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   
+}
+/*Extra extra large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	/*header*/
+	.menu ul li a {
+    font-size: 29.17px;
+    padding: 0 30px !important;
+}
+/*slider*/
+.s_text h1 {
+    font-size: 66.67px !important;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    }
+.s_text p {
+    font-size: 29.17px;
+    line-height: 35px;
+    }
+    /*service start*/
+    .service_t h1{
+    font-size: 50px;
+    }
+    .service_t p{
+    font-size: 29px;
+    }
+/*features start*/
+.f_h1{
+	font-size: 75px;
+    }
+.f_p{
+    font-size: 35px;
+    }
+ .si_imgtext p {
+    font-size: 25px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+/*footer*/
+.newsletter form {
+    margin-left: 165px;
+   }
+  	
+}
