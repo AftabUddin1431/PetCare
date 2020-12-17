@@ -24,5 +24,5 @@ bottom         90
 
 
 
-link  :       https://aftabuddin1431.github.io/PetCate/
+link  :       https://aftabuddin1431.github.io/PetCare/
 
