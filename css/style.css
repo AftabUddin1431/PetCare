@@ -106,6 +106,7 @@ header{
     height: 60px;
    background-color: #00bec9!important;
     font-size: 20px;
+	border:none;
     border-radius: 8px;
 }
 .bt_1:hover{
